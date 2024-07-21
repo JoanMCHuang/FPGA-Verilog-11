@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/TCFST2D/Desktop/01_Verilog/practice 11
+T_opt
+!s110 1604115974
+V?^dX@BSzQ_N<S;oAlBZ>53
+04 9 4 work testbench fast 0
+=2-309c231f8d93-5f9cde06-4d-320
+o-quiet -auto_acc_if_foreign -work work -debugdb
+n@_opt
+OL;O;10.4;61
+vEX_11
+Z1 !s110 1604115973
+!i10b 1
+!s100 F?1S?LZaH0j]:l?lKCQdd0
+IYGBg8VJg:DDV_S92iEmM]3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604115558
+8EX_11.v
+FEX_11.v
+L0 3
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1604115973.890000
+!s107 EX_11.v|
+!s90 -reportprogress|300|EX_11.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@e@x_11
+vtestbench
+R1
+!i10b 1
+!s100 ZamcOnDO28NZd5NNmDTbK0
+IiS]KFM@^l@ef7?]OO_hjJ0
+R2
+R0
+w1604115967
+8EX_11_tb.v
+FEX_11_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1604115973.968000
+!s107 EX_11_tb.v|
+!s90 -reportprogress|300|EX_11_tb.v|
+!i113 0
+R4
